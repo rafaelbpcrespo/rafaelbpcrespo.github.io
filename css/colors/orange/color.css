@@ -27,11 +27,11 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 
 #header { background:#fe7c09 url(base-header.jpg) repeat top center; }
 
-#navigation_affix { background-color:#ea7106; }
+#navigation_affix { background-color:black; }
 #header .nav > li > a, #navigation_affix .nav > li > a, #header .navbar-nav > li > a, #navigation_affix .navbar-nav > li > a, #header .nav-menu-mobile ul li a { color:#f9cca5; }
 #header .navbar-nav > .active > a, #navigation_affix .navbar-nav > .active > a {
 	color:#FFF;
-	background:#ea7106 !important;
+	background:black !important;
 }
 #navigation_affix .navbar-nav > .active > a {
 	color:#fe7c09;
@@ -39,4 +39,4 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 }
 #navigation_affix .navbar-nav > .active > a:hover { color:#fe7c09; }
 #header .nav-menu-mobile .nav-menu-links { background-color:#ef7408; }
-#header .nav-menu-mobile .nav-menu-button, #header .header-content .btn-header { background-color:#ea7106; }
+#header .nav-menu-mobile .nav-menu-button, #header .header-content .btn-header { background-color:black; }
