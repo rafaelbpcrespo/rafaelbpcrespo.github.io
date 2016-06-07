@@ -40,3 +40,21 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 #navigation_affix .navbar-nav > .active > a:hover { color:#fe7c09; }
 #header .nav-menu-mobile .nav-menu-links { background-color:#ef7408; }
 #header .nav-menu-mobile .nav-menu-button, #header .header-content .btn-header { background-color:black; }
+
+#header .nav > li > a {
+  background-color: white !important;
+  color: #fe7c09;
+}
+
+#header .nav > li > a:hover { color:black; }
+
+#header .header-content .header-heading-title {
+  background: rgba(19,19,19,1);
+  background: -moz-linear-gradient(left, rgba(19,19,19,1) 9%, rgba(89,89,89,1) 13%, rgba(66,65,66,1) 77%, rgba(66,65,66,1) 81%, rgba(66,65,66,0) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(9%, rgba(19,19,19,1)), color-stop(13%, rgba(89,89,89,1)), color-stop(77%, rgba(66,65,66,1)), color-stop(81%, rgba(66,65,66,1)), color-stop(100%, rgba(66,65,66,0)));
+  background: -webkit-linear-gradient(left, rgba(19,19,19,1) 9%, rgba(89,89,89,1) 13%, rgba(66,65,66,1) 77%, rgba(66,65,66,1) 81%, rgba(66,65,66,0) 100%);
+  background: -o-linear-gradient(left, rgba(19,19,19,1) 9%, rgba(89,89,89,1) 13%, rgba(66,65,66,1) 77%, rgba(66,65,66,1) 81%, rgba(66,65,66,0) 100%);
+  background: -ms-linear-gradient(left, rgba(19,19,19,1) 9%, rgba(89,89,89,1) 13%, rgba(66,65,66,1) 77%, rgba(66,65,66,1) 81%, rgba(66,65,66,0) 100%);
+  background: linear-gradient(to right, rgba(19,19,19,1) 9%, rgba(89,89,89,1) 13%, rgba(66,65,66,1) 77%, rgba(66,65,66,1) 81%, rgba(66,65,66,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#131313', endColorstr='#424142', GradientType=1 );
+}
