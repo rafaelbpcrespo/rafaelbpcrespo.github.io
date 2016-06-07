@@ -47,3 +47,10 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
 }
 
 #header .nav > li > a:hover { color:black; }
+
+.box {
+    background: url(transparent.png) 0 0;
+    padding: 20px;
+    clear: both;
+    position: relative;
+}
