@@ -46,7 +46,7 @@ input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focu
   color: #dc4b3f;
 }
 
-#header .nav > li > a:hover { color:black; }
+#header .nav > li > a:hover { color:#581e19; }
 
 .box {
     background: url(transparent.png) 0 0;
