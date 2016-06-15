@@ -1937,3 +1937,7 @@ button.close:hover {
 #explanation-garcom {
 	border-radius: 15px;
 }
+
+#header .header-content {
+	height: 728px;
+}
