@@ -79,7 +79,7 @@ figure { margin:0px; }
 		background-color:#f4f4f4;
 		border:0px;
 	}
-	
+
 video {
 	width:100%;
 	height:auto;
@@ -159,7 +159,7 @@ video {
 				font-size:1.333333333333333em;
 				line-height:1.166666666666667em;
 			}
-			
+
 input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], .ie input[type="range"], .ie9 input[type="range"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], select, textarea {
 	height:50px;
 	font-family:Roboto, Arial, sans-serif;
@@ -385,7 +385,7 @@ input[type="button"], input[type="submit"], input[type="reset"], button {
 		text-transform:none;
 	}
 	.btn-custom.btn-icon.disabled .fa, button.btn-icon:disabled .fa, .btn-custom.btn-icon.disabled:hover .fa, button.btn-icon:disabled:hover .fa { border-right-color:#EEE; }
-	
+
 button.close {
 	font-family:Arial, Helvetica, sans-serif;
 	color:#404040 !important;
@@ -444,7 +444,7 @@ button.close:hover {
 		padding-left:44%;
 		z-index:200;
 	}
-	
+
 .img-hover {
 	overflow:hidden;
 	position:relative;
@@ -484,7 +484,7 @@ button.close:hover {
 	.img-hover:hover .img-hover-masked { opacity:1; }
 	.ie .img-hover img { border:6px solid #EEE; }
 	.ie .img-hover:hover img { border-color:#169ece; }
-	
+
 .carousel-slider.slick-slider { margin-bottom:0px; }
 .carousel-slider.slick-slider.gallery-slider { padding-bottom:42px; }
 	.carousel-slider .slick-prev, .carousel-slider .slick-next {
@@ -538,7 +538,7 @@ button.close:hover {
 			.carousel-slider .slick-dots li.slick-active button { background:#169ece; }
 	.carousel-slider .slick-slide, .carousel-slider .slick-slide a { outline:none; }
 	.carousel-slider img { width:100%; }
-	
+
 .alert h4 { margin-bottom:10px; }
 
 .tooltip {
@@ -595,7 +595,7 @@ button.close:hover {
 		text-transform:uppercase;
 		margin-bottom:12px;
 	}
-	
+
 .affa-form-subscribe { position:relative; }
 	.affa-form-subscribe input[type="text"], .affa-form-subscribe input[type="email"] {
 		width:100%;
@@ -670,7 +670,7 @@ button.close:hover {
 	#header input[type="color"]:disabled, #header input[type="date"]:disabled, #header input[type="datetime"]:disabled, #header input[type="datetime-local"]:disabled, #header input[type="email"]:disabled, #header input[type="month"]:disabled, #header input[type="number"]:disabled, #header input[type="password"]:disabled, #header .ie input[type="range"]:disabled, #header .ie9 input[type="range"]:disabled, #header input[type="search"]:disabled, #header input[type="tel"]:disabled, #header input[type="text"]:disabled, #header input[type="time"]:disabled, #header input[type="url"]:disabled, #header input[type="week"]:disabled, #header select:disabled, #header textarea:disabled, #bottom input[type="color"]:disabled, #bottom input[type="date"]:disabled, #bottom input[type="datetime"]:disabled, #bottom input[type="datetime-local"]:disabled, #bottom input[type="email"]:disabled, #bottom input[type="month"]:disabled, #bottom input[type="number"]:disabled, #bottom input[type="password"]:disabled, #bottom .ie input[type="range"]:disabled, #bottom .ie9 input[type="range"]:disabled, #bottom input[type="search"]:disabled, #bottom input[type="tel"]:disabled, #bottom input[type="text"]:disabled, #bottom input[type="time"]:disabled, #bottom input[type="url"]:disabled, #bottom input[type="week"]:disabled, #bottom select:disabled, #bottom textarea:disabled { border-color:#e9e9e9; }
 	#header .affa-form-subscribe input[type="text"].success, #header .affa-form-subscribe input[type="email"].success, #bottom .affa-form-subscribe input[type="text"].success, #bottom .affa-form-subscribe input[type="email"].success { border-color:#9edf9e; }
 	#header .affa-form-subscribe input[type="text"].error, #header .affa-form-subscribe input[type="email"].error, #bottom .affa-form-subscribe input[type="text"].error, #bottom .affa-form-subscribe input[type="email"].error { border-color:#ffb2b2; }
-	
+
 /* Navigation Menu */
 #header .navbar {
 	min-height:0px;
@@ -801,7 +801,7 @@ button.close:hover {
 			-webkit-border-radius:0px;
 			border-radius:0px;
 		}
-		
+
 /* Header Content */
 #header .header-content {
 	text-align:center;
@@ -892,7 +892,7 @@ button.close:hover {
 		margin:0px;
 	}
 	.affa_feature_icon p { margin:10px 0px 0px; }
-	
+
 .affa_feature_icon_top { text-align:center; }
 	.affa_feature_icon_top .fa {
 		color:#169ece;
@@ -906,12 +906,12 @@ button.close:hover {
 		margin:0px;
 	}
 	.affa_feature_icon_top p { margin:5px 0px 0px; }
-	
+
 .col-features { padding-top:115px; }
 .col-features .affa_feature_icon { margin-bottom:50px; }
 .col-features .affa_feature_icon:last-child { margin-bottom:0px; }
 	.col-features-img figure { padding:0px 12px; }
-	
+
 .affa_testimonials_carousel.carousel-slider.slick-slider { padding-bottom:42px; }
 	.affa_testimonials_carousel .testimonial-item { text-align:center; }
 	.affa_testimonials_carousel img {
@@ -947,7 +947,7 @@ button.close:hover {
 			border-radius:4px;
 		}
 	.affa_testimonials_carousel.carousel-slider .slick-dots { bottom:-1px; }
-	
+
 .tbl-pricing { padding:20px 0px; }
 	.tbl-pricing .row {
 		background-color:#f4f4f4;
@@ -1067,10 +1067,10 @@ button.close:hover {
 		border-top:1px solid #202020;
 		border-bottom:1px solid #202020;
 	}
-	
+
 #bottom .bottom-button, #bottom .subscribe-form, #bottom .social-links { margin-bottom:2.5em; }
 	#bottom .bottom-button .btn-custom { margin:5px 15px; }
-	
+
 #bottom .subscribe-form .affa-form-subscribe {
 	width:600px;
 	margin:0px auto;
@@ -1083,7 +1083,7 @@ button.close:hover {
 	margin:0px 30px;
 }
 	#bottom .social-links a:hover { color:#FFF; }
-	
+
 #bottom .footer-text {
 	line-height:1.5em;
 	padding:20px 0px 30px;
@@ -1195,9 +1195,9 @@ button.close:hover {
 /* ========================= Media Queries ========================= */
 
 @media (min-width: 992px) and (max-width: 1199px) {
-	
+
 	body { font-size:15px; }
-	
+
 	input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], .ie input[type="range"], .ie9 input[type="range"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], select, textarea {
 		height:44px;
 		font-size:16px;
@@ -1216,7 +1216,7 @@ button.close:hover {
 		padding-left:17px;
 		padding-right:17px;
 	}
-	
+
 	.btn-custom, input[type="button"], input[type="submit"], input[type="reset"], button {
 		font-size:16px;
 		line-height:44px;
@@ -1230,7 +1230,7 @@ button.close:hover {
 		padding-top:14px;
 		padding-bottom:14px;
 	}
-	
+
 	.btn-custom.btn-icon, button.btn-icon {
 		font-size:18px;
 		line-height:24px;
@@ -1250,13 +1250,13 @@ button.close:hover {
 		font-size:12px;
 		line-height:16px;
 	}
-	
+
 	.carousel-slider.slick-slider.gallery-slider { margin:0px -10px; }
 	.carousel-slider.slick-slider.gallery-slider .slick-slide { padding:0px 10px; }
-	
+
 	.col-text { padding-top:60px; }
 	.col-text-half { padding-top:25px; }
-	
+
 	.affa-form-subscribe input[type="text"], .affa-form-subscribe input[type="email"] { padding-right:72px; }
 	.affa-form-subscribe input[type="submit"] {
 		width:55px;
@@ -1264,7 +1264,7 @@ button.close:hover {
 		-webkit-border-radius:0px 5px 5px 0px;
 		border-radius:0px 5px 5px 0px;
 	}
-	
+
 	#header .navbar, #header .navbar-brand img, #header .nav { height:64px; }
 	#header .nav > li { padding:18px 12px; }
 	#navigation_affix .nav > li { padding:20px 10px; }
@@ -1280,7 +1280,7 @@ button.close:hover {
 		-webkit-border-radius:4px;
 		border-radius:4px;
 	}
-	
+
 	#header .header-content .header-heading-title h1 {
 		font-size:48px;
 		line-height:58px;
@@ -1306,14 +1306,14 @@ button.close:hover {
 		padding-left:120px;
 		padding-right:120px;
 	}
-	
+
 	.affa_feature_icon { min-height:73px; }
 	.affa_feature_icon .fa { top:7px; }
-	
+
 	.col-features { padding-top:45px; }
 	.col-features .affa_feature_icon { margin-bottom:40px; }
 	.col-features-img figure { padding:0px 6px; }
-	
+
 	.tbl-pricing .tbl-prc-col h4.tbl-prc-heading, .tbl-pricing .tbl-prc-col h2.tbl-prc-price, .tbl-pricing .tbl-prc-col h5.tbl-prc-sub-price, .tbl-pricing .tbl-prc-col .tbl-prc-list li, .tbl-pricing .tbl-prc-col .tbl-prc-footer {
 		padding-left:8px;
 		padding-right:8px;
@@ -1323,20 +1323,20 @@ button.close:hover {
 		padding-bottom:20px;
 	}
 	.tbl-pricing .tbl-prc-col .tbl-prc-list li .fa { margin-right:4px; }
-	
+
 	#bottom .bottom-button .btn-custom {
 		margin-left:12px;
 		margin-right:12px;
 	}
 	#bottom .subscribe-form .affa-form-subscribe { width:540px; }
 	#bottom .social-links a { margin:0px 24px; }
-	
+
 	.ie input[type="color"], .ie input[type="date"], .ie input[type="datetime"], .ie input[type="datetime-local"], .ie input[type="email"], .ie input[type="month"], .ie input[type="number"], .ie input[type="password"], .ie input[type="range"], .ie input[type="search"], .ie input[type="tel"], .ie input[type="text"], .ie input[type="time"], .ie input[type="url"], .ie input[type="week"] { line-height:42px; }
-	
+
 }
 
 @media screen and (min-width: 992px) and (max-width: 1199px) and (-moz-images-in-menus:0) {
-	
+
 	input[type="color"] {
 		height:31px;
 		padding:2px;
@@ -1344,11 +1344,11 @@ button.close:hover {
 		-webkit-border-radius:2px;
 		border-radius:2px;
 	}
-	
+
 }
 
 @media screen and (min-width: 992px) and (max-width: 1199px) and (-webkit-min-device-pixel-ratio:0) {
-	
+
 	input[type="color"] {
 		height:31px;
 		padding:2px;
@@ -1363,13 +1363,13 @@ button.close:hover {
 		-webkit-border-radius:5px;
 		border-radius:5px;
 	}
-	
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-	
+
 	body { font-size:13px; }
-	
+
 	input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], .ie input[type="range"], .ie9 input[type="range"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], select, textarea {
 		height:38px;
 		font-size:14px;
@@ -1388,7 +1388,7 @@ button.close:hover {
 		height:auto;
 		padding:7.5px 14px;
 	}
-	
+
 	.btn-custom, input[type="button"], input[type="submit"], input[type="reset"], button {
 		font-size:14px;
 		line-height:38px;
@@ -1402,7 +1402,7 @@ button.close:hover {
 		padding-top:12px;
 		padding-bottom:12px;
 	}
-	
+
 	.btn-custom.btn-icon, button.btn-icon {
 		font-size:16px;
 		line-height:22px;
@@ -1422,12 +1422,12 @@ button.close:hover {
 		font-size:11px;
 		line-height:14px;
 	}
-	
+
 	.carousel-slider.slick-slider.gallery-slider { margin:0px -5px; }
 	.carousel-slider.slick-slider.gallery-slider .slick-slide { padding:0px 5px; }
-	
+
 	.col-text, .col-text-half { padding-top:0px; }
-	
+
 	.affa-form-subscribe input[type="text"], .affa-form-subscribe input[type="email"] { padding-right:64px; }
 	.affa-form-subscribe input[type="submit"] {
 		width:50px;
@@ -1435,7 +1435,7 @@ button.close:hover {
 		-webkit-border-radius:0px 4px 4px 0px;
 		border-radius:0px 4px 4px 0px;
 	}
-	
+
 	#header .navbar, #header .navbar-brand img, #header .nav { height:56px; }
 	#header .nav > li { padding:15px 4px; }
 	#navigation_affix .nav > li { padding:21px 4px; }
@@ -1451,7 +1451,7 @@ button.close:hover {
 		-webkit-border-radius:3px;
 		border-radius:3px;
 	}
-	
+
 	#header .header-content .header-heading-title h1 {
 		font-size:38px;
 		line-height:48px;
@@ -1477,7 +1477,7 @@ button.close:hover {
 		padding-left:70px;
 		padding-right:70px;
 	}
-	
+
 	.affa_feature_icon {
 		min-height:56px;
 		padding-left:65px;
@@ -1490,11 +1490,11 @@ button.close:hover {
 		font-size:22px;
 		line-height:52px;
 	}
-	
+
 	.col-features { padding-top:0px; }
 	.col-features .affa_feature_icon { margin-bottom:30px; }
 	.col-features-img figure { padding:0px; }
-	
+
 	.tbl-pricing .tbl-prc-col h4.tbl-prc-heading, .tbl-pricing .tbl-prc-col h2.tbl-prc-price, .tbl-pricing .tbl-prc-col h5.tbl-prc-sub-price, .tbl-pricing .tbl-prc-col .tbl-prc-list li, .tbl-pricing .tbl-prc-col .tbl-prc-footer {
 		padding-left:6px;
 		padding-right:6px;
@@ -1504,20 +1504,20 @@ button.close:hover {
 		padding-bottom:21px;
 	}
 	.tbl-pricing .tbl-prc-col .tbl-prc-list li .fa { margin-right:4px; }
-	
+
 	#bottom .bottom-button .btn-custom {
 		margin-left:8px;
 		margin-right:8px;
 	}
 	#bottom .subscribe-form .affa-form-subscribe { width:440px; }
 	#bottom .social-links a { margin:0px 14px; }
-	
+
 	.ie input[type="color"], .ie input[type="date"], .ie input[type="datetime"], .ie input[type="datetime-local"], .ie input[type="email"], .ie input[type="month"], .ie input[type="number"], .ie input[type="password"], .ie input[type="range"], .ie input[type="search"], .ie input[type="tel"], .ie input[type="text"], .ie input[type="time"], .ie input[type="url"], .ie input[type="week"] { line-height:36px; }
-	
+
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) and (-moz-images-in-menus:0) {
-	
+
 	input[type="color"] {
 		height:26px;
 		padding:1px;
@@ -1525,11 +1525,11 @@ button.close:hover {
 		-webkit-border-radius:2px;
 		border-radius:2px;
 	}
-	
+
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) and (-webkit-min-device-pixel-ratio:0) {
-	
+
 	input[type="color"] {
 		height:26px;
 		padding:1px;
@@ -1544,26 +1544,26 @@ button.close:hover {
 		-webkit-border-radius:4px;
 		border-radius:4px;
 	}
-	
+
 }
 
 @media (max-width: 767px) {
-	
+
 	.carousel-slider.slick-slider.gallery-slider { margin:0px -10px; }
 	.carousel-slider.slick-slider.gallery-slider .slick-slide { padding:0px 10px; }
-	
+
 	.row-section {
 		padding-top:60px;
 		padding-bottom:60px;
 	}
 	.row-section .col-xs-offset-1 { margin:0px; }
-	
+
 	.col-text, .col-text-half { padding-top:20px; }
 	.col-text.text-right, .col-text-half.text-right {
 		text-align:left;
 		padding:0px 0px 20px;
 	}
-	
+
 	#header { padding-top:0px; }
 	#header .navbar {
 		position:static;
@@ -1581,7 +1581,7 @@ button.close:hover {
 	}
 	#header .navbar-brand > img { display:inline; }
 	#header .nav-menu-mobile { display:block !important; }
-	
+
 	#header .header-content { padding-top:80px; }
 	#header .header-content .header-heading-title h1 {
 		font-size:52px;
@@ -1593,7 +1593,7 @@ button.close:hover {
 		letter-spacing:4px;
 	}
 	#header .header-content .header-img { padding:20px 50px 0px; }
-	
+
 	.affa_feature_icon, .affa_feature_icon.icon-right {
 		position:static;
 		text-align:center;
@@ -1608,10 +1608,10 @@ button.close:hover {
 		left:auto;
 		margin-bottom:10px;
 	}
-	
+
 	.affa_feature_icon, .affa_feature_icon_top { margin-bottom:40px; }
 	.row-section .row:last-child > div:last-child .affa_feature_icon, .row-section .row:last-child > div:last-child .affa_feature_icon_top { margin-bottom:0px; }
-	
+
 	.col-features {
 		padding-top:0px;
 		margin-bottom:40px;
@@ -1620,7 +1620,7 @@ button.close:hover {
 	.ie .col-features-img figure { margin-bottom:40px; }
 	.col-features .affa_feature_icon, .row-section .row:last-child > .col-features:last-child .affa_feature_icon { margin-bottom:40px; }
 	.row-section .row:last-child > .col-features .affa_feature_icon:last-child { margin-bottom:0px; }
-	
+
 	.tbl-pricing { padding:0px; }
 	.tbl-pricing .row, .tbl-pricing.tbl-prc-recommended .row { padding:2px 0px; }
 	.tbl-pricing .tbl-prc-col { padding:2px 4px; }
@@ -1632,7 +1632,7 @@ button.close:hover {
 		padding-top:25px;
 		padding-bottom:25px;
 	}
-	
+
 	#bottom { padding-top:60px; }
 	#bottom .post-heading-center, #bottom .post-heading-center2 { margin-bottom:20px; }
 	#bottom .bottom-button, #bottom .sep-border { margin-bottom:40px; }
@@ -1647,15 +1647,15 @@ button.close:hover {
 		line-height:48px;
 		margin:0px 20px;
 	}
-	
+
 	#customize { top:60px; }
-	
+
 }
 
 @media (max-width: 640px) {
-	
+
 	body { font-size:15px; }
-	
+
 	input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], .ie input[type="range"], .ie9 input[type="range"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], select, textarea {
 		height:44px;
 		font-size:16px;
@@ -1674,7 +1674,7 @@ button.close:hover {
 		height:auto;
 		padding:9.5px 17px;
 	}
-	
+
 	.btn-custom, input[type="button"], input[type="submit"], input[type="reset"], button {
 		font-size:16px;
 		line-height:44px;
@@ -1688,7 +1688,7 @@ button.close:hover {
 		padding-top:14px;
 		padding-bottom:14px;
 	}
-	
+
 	.btn-custom.btn-icon, button.btn-icon {
 		font-size:18px;
 		line-height:24px;
@@ -1707,15 +1707,15 @@ button.close:hover {
 		font-size:12px;
 		line-height:16px;
 	}
-	
+
 	.carousel-slider.slick-slider.gallery-slider { margin:0px -5px; }
 	.carousel-slider.slick-slider.gallery-slider .slick-slide { padding:0px 5px; }
-	
+
 	.row-section {
 		padding-top:50px;
 		padding-bottom:50px;
 	}
-	
+
 	.affa-form-subscribe input[type="text"], .affa-form-subscribe input[type="email"] { padding-right:72px; }
 	.affa-form-subscribe input[type="submit"] {
 		width:55px;
@@ -1723,13 +1723,13 @@ button.close:hover {
 		-webkit-border-radius:0px 5px 5px 0px;
 		border-radius:0px 5px 5px 0px;
 	}
-	
+
 	#header .nav-menu-mobile { padding-bottom:40px; }
 	#header .nav-menu-mobile ul {
 		padding-left:60px;
 		padding-right:60px;
 	}
-	
+
 	#header .header-content { padding-top:60px; }
 	#header .header-content .header-heading-title h1 {
 		font-size:44px;
@@ -1756,21 +1756,21 @@ button.close:hover {
 		padding-left:30px;
 		padding-right:30px;
 	}
-	
+
 	.tbl-pricing .tbl-prc-col .tbl-prc-list li .fa { margin-right:4px; }
-	
+
 	#bottom { padding-top:50px; }
 	#bottom .bottom-button .btn-custom {
 		margin-left:5px;
 		margin-right:5px;
 	}
-	
+
 	.ie input[type="color"], .ie input[type="date"], .ie input[type="datetime"], .ie input[type="datetime-local"], .ie input[type="email"], .ie input[type="month"], .ie input[type="number"], .ie input[type="password"], .ie input[type="range"], .ie input[type="search"], .ie input[type="tel"], .ie input[type="text"], .ie input[type="time"], .ie input[type="url"], .ie input[type="week"] { line-height:42px; }
-	
+
 }
 
 @media screen and (max-width: 640px) and (-moz-images-in-menus:0) {
-	
+
 	input[type="color"] {
 		height:31px;
 		padding:2px;
@@ -1778,11 +1778,11 @@ button.close:hover {
 		-webkit-border-radius:2px;
 		border-radius:2px;
 	}
-	
+
 }
 
 @media screen and (max-width: 640px) and (-webkit-min-device-pixel-ratio:0) {
-	
+
 	input[type="color"] {
 		height:31px;
 		padding:2px;
@@ -1797,13 +1797,13 @@ button.close:hover {
 		-webkit-border-radius:5px;
 		border-radius:5px;
 	}
-	
+
 }
 
 @media (max-width: 480px) {
-	
+
 	body { font-size:13px; }
-	
+
 	input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], .ie input[type="range"], .ie9 input[type="range"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], select, textarea {
 		height:38px;
 		font-size:14px;
@@ -1822,7 +1822,7 @@ button.close:hover {
 		height:auto;
 		padding:7.5px 14px;
 	}
-	
+
 	.btn-custom, input[type="button"], input[type="submit"], input[type="reset"], button {
 		font-size:14px;
 		line-height:38px;
@@ -1836,7 +1836,7 @@ button.close:hover {
 		padding-top:12px;
 		padding-bottom:12px;
 	}
-	
+
 	.btn-custom.btn-icon, button.btn-icon {
 		font-size:16px;
 		line-height:22px;
@@ -1855,12 +1855,12 @@ button.close:hover {
 		font-size:11px;
 		line-height:14px;
 	}
-	
+
 	.row-section {
 		padding-top:40px;
 		padding-bottom:40px;
 	}
-	
+
 	.affa-form-subscribe input[type="text"], .affa-form-subscribe input[type="email"] { padding-right:64px; }
 	.affa-form-subscribe input[type="submit"] {
 		width:50px;
@@ -1868,12 +1868,12 @@ button.close:hover {
 		-webkit-border-radius:0px 4px 4px 0px;
 		border-radius:0px 4px 4px 0px;
 	}
-	
+
 	#header .nav-menu-mobile ul {
 		padding-left:15px;
 		padding-right:15px;
 	}
-	
+
 	#header .header-content .header-heading-title h1 {
 		font-size:36px;
 		line-height:44px;
@@ -1896,15 +1896,15 @@ button.close:hover {
 		line-height:48px;
 	}
 	#header .header-content .header-img { padding:10px 0px 0px; }
-	
+
 	#bottom { padding-top:40px; }
-	
+
 	.ie input[type="color"], .ie input[type="date"], .ie input[type="datetime"], .ie input[type="datetime-local"], .ie input[type="email"], .ie input[type="month"], .ie input[type="number"], .ie input[type="password"], .ie input[type="range"], .ie input[type="search"], .ie input[type="tel"], .ie input[type="text"], .ie input[type="time"], .ie input[type="url"], .ie input[type="week"] { line-height:36px; }
-	
+
 }
 
 @media screen and (max-width: 480px) and (-moz-images-in-menus:0) {
-	
+
 	input[type="color"] {
 		height:26px;
 		padding:1px;
@@ -1912,11 +1912,11 @@ button.close:hover {
 		-webkit-border-radius:2px;
 		border-radius:2px;
 	}
-	
+
 }
 
 @media screen and (max-width: 480px) and (-webkit-min-device-pixel-ratio:0) {
-	
+
 	input[type="color"] {
 		height:26px;
 		padding:1px;
@@ -1931,5 +1931,9 @@ button.close:hover {
 		-webkit-border-radius:4px;
 		border-radius:4px;
 	}
-	
+
+}
+
+#explanation-garcom {
+	border-radius: 15px;
 }
