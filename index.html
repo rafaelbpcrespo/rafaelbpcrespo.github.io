@@ -256,26 +256,27 @@ must watch
             </div>
             <div class="row">
                 <div class="col-md-10 col-md-offset-1 contact-form">
-                    <form action="http://appengg.com/astound/v-1.0.3/php/contact.php" id="contact-form" method="post" name="contact-form">
+                    <form action="https://powellsoftwares.wufoo.com/forms/z1jev1lj0gi8ofg/" enctype="multipart/form-data" method="post" autocomplete="off">
                         <div class="row">
-                            <div class="for-user-name col-sm-4 col-xs-12">
-                                <input class="form-control" name="name" placeholder="Nome" required="" type="text">
+                            <div class="for-user-name col-sm-6 col-xs-12">
+                                <input name="Field1" type="text" maxlength="255" required spellcheck="false" placeholder="Nome" class="form-control"/>
                             </div>
-                            <div class="for-user-email col-sm-4 col-xs-12">
-                                <input class="form-control" id="email" name="email" placeholder="E-mail" required="" type="email">
+                            <div class="for-user-phone col-sm-6 col-xs-12">
+                                <input name="Field8"  type="text" required spellcheck="false" placeholder="Telefone com o DDD" class="form-control"/>
                             </div>
-                            <div class="for-user-phone col-sm-4 col-xs-12">
-                                <input class="form-control" id="phone" name="phone" placeholder="Telefone" required="" type="tel">
-                            </div>
+                        </div>
+                        <div style="display: none">
+                            <label for="comment">Não preencha esse campo</label>
+                            <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
+                            <input type="hidden" id="idstamp" name="idstamp" value="JllNeb2jmYXQHpvdJuXWXBbR506KkcNXe5dxbD8FM1o=" />
                         </div>
                         <div class="row">
                             <div class="for-user-message col-xs-12">
-                                <textarea class="form-control" id="message" name="message" placeholder="" required rows="8">
-								</textarea>
+                                <textarea name="Field3" required spellcheck="true" rows="8" class="form-control"></textarea>
                             </div>
                         </div>
                         <div class="row">
-                            <button class="btn btn-default col-sm-4 col-xs-12 pull-right submit-btn" id="submit-btn" type="submit" value="send">Enviar</button>
+                            <input class="btn btn-default col-sm-4 col-xs-12 pull-right submit-btn" id="submit-btn" name="saveForm" type="submit" value="Enviar" />
                         </div>
                     </form>
                     <div class="success-cf">
