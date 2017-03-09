@@ -261,6 +261,15 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 	margin-bottom: 20px;
 }
 
+.smarter-content .smarter-text h5 {
+	display: inline-block;
+	color: #f55e25;
+	font-size: 15px;
+	background: #eeeeee;
+	padding: 5px 10px;
+	margin-bottom: 20px;
+}
+
 .smarter-content .smarter-text p {
 	font-size: 14px;
 	margin-bottom: 25px;
