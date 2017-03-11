@@ -1,4 +1,4 @@
-body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-size:16px;overflow-x:hidden;background:#ffffff;}p{font-weight:400;color:#888;}h1,h2,h3,h4,h5,h6{font-family:'Raleway',sans-serif;font-weight:400;color:#0b0b0b;}a{color:#f55e25;transition:all 0.6 ease;-webkit-transition:all 0.6 ease;-moz-transition:all 0.6 ease;-o-transition:all 0.6 ease;}a:hover,a:focus{color:#d74a15;text-decoration:none;}a:focus{outline:none;}ul,li{list-style:none;padding:0;margin:0;}.text-color{color:#f55e25;}small{margin:20px 0px;letter-spacing:.2px;color:rgba(204,204,204,0.8);}.section{padding:60px 0;}.padding-150{padding:150px 0;}.no-padding{padding:0px!important;}.hr{position:relative;display:block;margin:10px 0;width:100px;height:1px;background:rgba(255,255,255,0.5);}.hr-line{position:relative;display:block;margin:0 auto;width:100px;height:1px;background:red;}.heading{padding-bottom:50px;}.heading h2{font-size:32px!important;font-weight:600;text-transform:uppercase;margin-left:10px;}.sub-heading p{font-size:16px;font-style:italic;margin-top:-13px;margin-left:10px;}.w-heading{padding-bottom:50px;}.w-heading:before{content:'';position:absolute;width:5px;height:28px;margin-top:2px;background:#f55e25;}.w-heading h2{font-size:32px!important;font-weight:600;color:#fff;text-transform:uppercase;margin-left:10px;}.w-sub-heading p{font-size:16px;color:#eeeeee;font-style:italic;margin-top:-13px;margin-left:10px;}.navbar-default{background-color:rgba(11,11,11,0.9);-webkit-transition:all ease .5s;transition:all ease .5s;border:none;-webkit-box-shadow:0 0 10px rgba(255,255,255,1);box-shadow:0 0 10px rgba(0,0,0,0.1);}.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus{color:#f55e25!important;background-color:transparent;}.navbar-default .navbar-nav>li>a{color:#fff;text-transform:capitalize;font-weight:600;font-size:13px;}@media (min-width: 768px){.navbar-nav>li>a{padding-top:20px;padding-bottom:20px;}}@media(max-width:767px){
+body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-size:16px;overflow-x:hidden;background:#ffffff;}p{font-weight:400;color:#888;}h1,h2,h3,h4,h5,h6{font-family:'Raleway',sans-serif;font-weight:400;color:#0b0b0b;}a{color:#f55e25;transition:all 0.6 ease;-webkit-transition:all 0.6 ease;-moz-transition:all 0.6 ease;-o-transition:all 0.6 ease;}a:hover,a:focus{color:#d74a15;text-decoration:none;}a:focus{outline:none;}ul,li{list-style:none;padding:0;margin:0;}.text-color{color:#f55e25;}small{margin:20px 0px;letter-spacing:.2px;color:rgba(204,204,204,0.8);}.section{padding:60px 0;}.padding-150{padding:150px 0;}.no-padding{padding:0px!important;}.hr{position:relative;display:block;margin:10px 0;width:100px;height:1px;background:rgba(255,255,255,0.5);}.hr-line{position:relative;display:block;margin:0 auto;width:100px;height:1px;background:red;}.heading{padding-bottom:50px;}.heading h2{font-size:32px!important;font-weight:600;text-transform:uppercase;margin-left:10px;}.sub-heading p{font-size:16px;font-style:italic;margin-top:-13px;margin-left:10px;}.w-heading{padding-bottom:50px;}.w-heading:before{content:'';position:absolute;width:5px;height:28px;margin-top:2px;background:#CC0000;}.w-heading h2{font-size:32px!important;font-weight:600;color:#fff;text-transform:uppercase;margin-left:10px;}.w-sub-heading p{font-size:16px;color:#eeeeee;font-style:italic;margin-top:-13px;margin-left:10px;}.navbar-default{background-color:rgba(11,11,11,0.9);-webkit-transition:all ease .5s;transition:all ease .5s;border:none;-webkit-box-shadow:0 0 10px rgba(255,255,255,1);box-shadow:0 0 10px rgba(0,0,0,0.1);}.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus{color:#f55e25!important;background-color:transparent;}.navbar-default .navbar-nav>li>a{color:#fff;text-transform:capitalize;font-weight:600;font-size:13px;}@media (min-width: 768px){.navbar-nav>li>a{padding-top:20px;padding-bottom:20px;}}@media(max-width:767px){
 	.navbar-brand>img {
     width: 90px !important;
 }
@@ -46,7 +46,7 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 	background: -webkit-linear-gradient(45deg, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.81) 47%, rgba(146,44,7,1) 100%);
 	background: -o-linear-gradient(45deg, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.81) 47%, rgba(146,44,7,1) 100%);
 	background: -ms-linear-gradient(45deg, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.81) 47%, rgba(146,44,7,1) 100%);
-	background: linear-gradient(45deg, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.81) 47%, rgba(146,44,7,1) 100%);
+	background: linear-gradient(45deg, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.81) 47%, rgba(109,2,2,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#922c07', GradientType=1 );
 }
 
@@ -166,8 +166,8 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 
 .bttn {
 	color: #ffffff;
-	background: #f55e25;
-	border: 2px solid #f55e25;
+	background: #CC0000;
+	border: 2px solid #CC0000;
 	font-weight: 600;
 	padding: .75em 1.5em;
 	border-radius: 5px;
@@ -181,8 +181,8 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 .bttn:active,
 .bttn:focus {
 	color: #fff;
-	background: #d74a15;
-	border: 2px solid #d74a15;
+	background: #6D0202;
+	border: 2px solid #6D0202;
 }
 
 .action-btn {
@@ -204,7 +204,7 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
   margin-bottom: 0;
   background: #fff;
   border: 2px solid #fff;
-  color: #f55e25;
+  color: #CC0000;
 }
 
 @media (max-width:768px) {
@@ -229,7 +229,7 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 
 .features-content span  {
 	font-size: 32px;
-	color: #f55e25;
+	color: #CC0000;
 }
 
 .features-content h3 {
@@ -254,7 +254,7 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 
 .smarter-content .smarter-text h3 {
 	display: inline-block;
-	color: #f55e25;
+	color: #6D0202;
 	font-size: 28px;
 	padding: 5px 0px;
 	margin-bottom: 20px;
@@ -262,7 +262,7 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 
 .smarter-content .smarter-text h4 {
 	display: inline-block;
-	color: #f55e25;
+	color: #6D0202;
 	font-size: 22px;
 	padding: 5px 0px;
 	margin-bottom: 0px;
@@ -270,7 +270,7 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 
 .smarter-content .smarter-text h5 {
 	display: inline-block;
-	color: #f55e25;
+	color: #6D0202;
 	font-size: 15px;
 	padding: 5px 0px;
 	margin-bottom: 20px;
