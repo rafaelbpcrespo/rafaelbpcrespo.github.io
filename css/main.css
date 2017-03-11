@@ -249,7 +249,7 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 }
 
 .smarter-content .smarter-text {
-	margin:50px 0 40px;
+	margin:0px 0 40px;
 }
 
 .smarter-content .smarter-text h3 {
@@ -258,12 +258,13 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 	font-size: 28px;
 	padding: 5px 0px;
 	margin-bottom: 20px;
+	margin-top: 0px;
 }
 
 .smarter-content .smarter-text h4 {
 	display: inline-block;
 	color: #6D0202;
-	font-size: 22px;
+	font-size: 24px;
 	padding: 5px 0px;
 	margin-bottom: 0px;
 }
@@ -271,7 +272,7 @@ body{font-family:'Open Sans',sans-serif;lineheight: 1.5;font-weight:400;font-siz
 .smarter-content .smarter-text h5 {
 	display: inline-block;
 	color: #6D0202;
-	font-size: 15px;
+	font-size: 22px;
 	padding: 5px 0px;
 	margin-bottom: 20px;
 }
